@@ -18,7 +18,6 @@
 ## 📚 Currently Learning  
 - Data Science & AI (ML/DL models, applications)  
 - Data Structures & Algorithms  
-- Competitive Programming  
 
 ---
 
