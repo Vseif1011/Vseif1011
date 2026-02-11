@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Seif Eldeen Mostafa  
+# Hi there , I'm Seif Eldeen Mostafa  
 
-💻 **Aspiring AI & ML Engineer** passionate about building intelligent systems that solve real-world problems.  
+💻 **Aspiring Software & AI Engineer** passionate about understands modern tech and building systems that solve real-world problems.  
 🎯 Professional focus on **Python, C++, HTML, CSS, JS**, with experience in:  
 - Data Science: **NumPy, Pandas, Matplotlib, Seaborn, scikit-learn**  
 - Web Development: **Flask**  
@@ -17,13 +17,15 @@
 
 ## 📚 Currently Learning  
 - Data Science & AI (ML/DL models, applications)  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Backend Development
+- Operating Systems 
 
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python | C++ | HTML | CSS | JavaScript  
-**Libraries/Frameworks:** NumPy | Pandas | Matplotlib | Seaborn | scikit-learn | Flask  
+**Languages:** Python | C++ | HTML | CSS | JavaScript 
+**Libraries/Frameworks:** NumPy | Pandas | Matplotlib | Seaborn | scikit-learn | Flask  | Beautiful Soup 
 
 ---
 
@@ -41,5 +43,5 @@
 - 📧 Email: **seifm6295@gmail.com**  
 
 ---
-✨ Always learning, building, and pushing boundaries with code.
+
 
