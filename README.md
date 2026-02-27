@@ -1,6 +1,6 @@
 # Hi there , I'm Seif Eldeen Mostafa  
 
-💻 **Aspiring Software & AI Engineer** passionate about understands modern tech and building systems that solve real-world problems.  
+💻 **Aspiring Software & AI Engineer** passionate about modern tech and building systems that solve real-world problems.  
 🎯 Professional focus on **Python, C++, HTML, CSS, JS**, with experience in:  
 - Data Science: **NumPy, Pandas, Matplotlib, Seaborn, scikit-learn**  
 - Web Development: **Flask**  
