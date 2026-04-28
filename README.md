@@ -2,7 +2,7 @@
 
 Aspiring **Software & AI Engineer** passionate about building efficient, real-world systems.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python | C++ | C | JavaScript 
 **Libraries/Frameworks:** NumPy | Pandas | Matplotlib | Seaborn | scikit-learn | Flask | PyQt 
