@@ -1,4 +1,4 @@
-# Hi, I'm Seif Eldeen Mostafa
+# Hi, I'm Seif 
 
 Aspiring **Software & AI Engineer** passionate about building efficient, real-world systems.
 
